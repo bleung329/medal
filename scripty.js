@@ -1,3 +1,12 @@
+/*
+Brian Leung
+
+SoftDev2 pd 7
+
+Olympic Medals!
+
+<2018>-<3>-<20>    
+*/
 var svg = document.getElementById("box");
 var US = document.getElementById("US");
 var china = document.getElementById("china");
